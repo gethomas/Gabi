@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gabrielathomas96@gmail.com" resolutions="1x" timestamp="1525146669850">
+  <folder name="css">
+    <file name="site_global.css" crc="4195827314"/>
+    <file name="cinematographer.css" crc="4266500800" ref="cinematographer"/>
+    <file name="videographr.css" crc="170293145" ref="videographr"/>
+    <file name="producer.css" crc="446162890" ref="producer"/>
+    <file name="photographer.css" crc="126153547" ref="photographer"/>
+    <file name="editor.css" crc="4223663843" ref="editor"/>
+    <file name="index.css" crc="4039671545" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="image-plus-hover.zip" crc="4007625170" seo="true" mt="1525059816000"/>
+    <file name="text-mask.zip" crc="4156540497" seo="true" mt="1525059772000"/>
+    <file name="text-mask2.zip" crc="4156540497" seo="true" mt="1525059772000"/>
+    <file name="videoplayerwidget_creativated.mulib" crc="3914314874" seo="true" mt="1525070414000"/>
+    <file name="pdf-embedder.mulib" crc="468121637" seo="true" mt="1445870794000"/>
+    <file name="youtube-logo.png" crc="4279302837" seo="true" mt="1525071750000"/>
+    <file name="instagram-icon-white-on-black-circle.png" crc="4003830119" seo="true" mt="1525071736000"/>
+    <file name="al-bustan12gates-artsrajie-cook-final-cut.mp4" crc="333672404" seo="true" mt="1519325530000"/>
+    <file name="besieged.thomasgabby.30.pdf" crc="3861526214" seo="true" mt="1525069968000"/>
+    <file name="bouncing-title.zip" crc="4078669294" seo="true" mt="1525142296000"/>
+    <file name="hover-blocks.mulib" crc="353447841" seo="true" mt="1454263306000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+    <file name="museutils.js" crc="3803043152" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+    <file name="museconfig.js" crc="380897831" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u751.php" crc="3788818863" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+    <file name="require.js" crc="4157109226" ref="index:editor:cinematographer:producer:videographr:photographer"/>
+  </folder>
+  <folder name="images">
+    <file name="laugh-crop-u2613.jpg" crc="4012394091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:producer"/>
+    <file name="jelly-crop-u2707.jpg" crc="4267141315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beach-crop-u2732.jpg" crc="64044041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fun-crop-u2757.jpg" crc="4079022005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u104-4.png" crc="3791179058" ref="index"/>
+    <file name="u124-5.png" crc="264960485" ref="index"/>
+    <file name="now.jpg" crc="4047207940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flowers-crop-u2029.jpg" crc="424619976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thomas-crop-u2027.jpg" crc="3898631831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="water-crop-u2025.jpg" crc="3863455451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog-crop-u2019.jpg" crc="3824894526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="baby-crop-u2021.jpg" crc="3790421055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bird-crop-u2017.jpg" crc="37766945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smile-crop-u2023.jpg" crc="4020387643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u855-6.png" crc="439038365" ref="editor"/>
+    <file name="u862-6.png" crc="62747108" ref="cinematographer"/>
+    <file name="u946-6.png" crc="279235128" ref="producer"/>
+    <file name="u898-6.png" crc="4146362866" ref="videographr"/>
+    <file name="u928-6.png" crc="4201560996" ref="photographer"/>
+    <file name="row6.jpg" crc="439563263" seo="true" ref="photographer">
+      <caption webpage="photographer" alt=""/>
+    </file>
+    <file name="row4-crop-u3063.jpg" crc="4261658028" seo="true" ref="photographer">
+      <caption webpage="photographer" alt=""/>
+    </file>
+    <file name="row3-crop-u3049.jpg" crc="58804908" seo="true" ref="photographer">
+      <caption webpage="photographer" alt=""/>
+    </file>
+    <file name="row5-crop-u3070.jpg" crc="4096650285" seo="true" ref="photographer">
+      <caption webpage="photographer" alt=""/>
+    </file>
+    <file name="row1-crop-u3109.jpg" crc="4010124885" seo="true" ref="photographer">
+      <caption webpage="photographer" alt=""/>
+    </file>
+    <file name="row.jpg" crc="273407691" seo="true" ref="photographer">
+      <caption webpage="photographer" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3931759889" seo="true" mt="1525146508345" redirect="true"/>
+  <file name="editor.html" crc="349666738" seo="true" mt="1525074938208" redirect="true"/>
+  <file name="cinematographer.html" crc="4092547053" seo="true" mt="1525144648616" redirect="true"/>
+  <file name="producer.html" crc="130331297" seo="true" mt="1525144196251" redirect="true"/>
+  <file name="videographr.html" crc="4153702562" seo="true" mt="1525146183630" redirect="true"/>
+  <file name="photographer.html" crc="3771430625" seo="true" mt="1525146017998" redirect="true"/>
+</manifest>
